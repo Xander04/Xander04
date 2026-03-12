@@ -1,4 +1,8 @@
-- 👋 Hi, I’m Zoe, i'm a trans Comp sci student, I know a fair amount of Python, Java, HTML. Basically my programming is like riding a dumpster fire down a slip and slide, it's wild but we get there in the end. Please feel free to correct and/or optimise my code.
+👋 Hi, I’m Zoe, i'm a trans Comp sci student, I know a fair amount of Python, Java and HTML, and I'm familier with several other languages.
+## About Me
+- Fedora Linux user
+- 📍 Melbourne, Australia
+- 🎓 RMIT University - Bachelor of Computer Science, Majoring in Cyber Security
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xander04&layout=compact&theme=dark)
 
