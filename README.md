@@ -4,7 +4,7 @@
 - 📍 Melbourne, Australia
 - 🎓 RMIT University - Bachelor of Computer Science, Majoring in Cyber Security
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xander04&layout=compact&theme=dark)
+![Top Langs](./profile/stats.svg)
 
 <!---
 Xander04/Xander04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
